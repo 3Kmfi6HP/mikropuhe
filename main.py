@@ -4,8 +4,6 @@ import os
 import re
 from alive import keep_alive
 
-
-
 #Define the bot token
 TOKEN = os.environ['BOT_TOKEN']
 
